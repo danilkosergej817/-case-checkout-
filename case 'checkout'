@@ -1,0 +1,5 @@
+  break;
+    case 'checkout':
+      repo.checkout(args[1]);
+      break;
+    case 'print':
